@@ -1,0 +1,22 @@
+{
+  "name": "@[REDACTED]/brux",
+  "version": "1.0.0",
+  "description": "A way of communicating between systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[REDACTED]",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/[REDACTED]/brux.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/[REDACTED]/brux/issues"
+  },
+  "homepage": "https://gitlab.com/[REDACTED]/brux#readme",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
