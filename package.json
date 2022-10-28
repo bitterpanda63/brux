@@ -1,0 +1,30 @@
+{
+  "name": "brux2",
+  "version": "2.0.4",
+  "description": "Brux v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "[REDACTED] [REDACTED]",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/[REDACTED]/brux2.git"
+  },
+  "keywords": [
+    "brux",
+    "v2",
+    "2",
+    "communications",
+    "protocol"
+  ],
+  "bugs": {
+    "url": "https://gitlab.com/[REDACTED]/brux2/issues"
+  },
+  "homepage": "https://gitlab.com/[REDACTED]/brux2#readme"
+}
