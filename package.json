@@ -1,12 +1,12 @@
 {
   "name": "brux2",
   "version": "2.0.2",
-  "description": "Brux v2",
+  "description": "Brux",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "author": "[REDACTED] [REDACTED]",
+  "author": "bitterpanda63",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
@@ -22,7 +22,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/[REDACTED]/brux2.git"
+    "url": "git+ssh://git@github.com/bitterpanda63/brux.git"
   },
   "keywords": [
     "brux",
@@ -32,7 +32,7 @@
     "protocol"
   ],
   "bugs": {
-    "url": "https://gitlab.com/[REDACTED]/brux2/issues"
+    "url": "https://github.com/bitterpanda63/brux/issues"
   },
-  "homepage": "https://gitlab.com/[REDACTED]/brux2#readme"
+  "homepage": "https://github.com/bitterpanda63/brux"
 }
